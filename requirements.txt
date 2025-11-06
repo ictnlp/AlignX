@@ -1,0 +1,9 @@
+accelerate
+appdirs
+loralib
+bitsandbytes
+datasets
+fire
+transformers==4.45.2
+sentencepiece
+pycountry
